@@ -1,0 +1,13 @@
+p{
+   color: azure; /* altera cor*/
+   font-size: 36px; /*tamanho da font*/
+   background-color: black; /*cor de fundo*/
+   font-family: 900; /*altera o peso da font*/
+}
+
+#sobrenome{
+    color: rgb(43, 226, 58);
+}
+.texto{
+    color: blueviolet;
+}
